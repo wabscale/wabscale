@@ -24,7 +24,7 @@ I've been living and breathing programming since I was 15 (22 now). I mostly spe
 # Some projects
 
 
-<a href="https://github.com/GusSands/Anubis">
+<a href="https://github.com/GusSand/Anubis">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GusSand&repo=Anubis&theme=dark" alt="stats" />
 </a>
 
