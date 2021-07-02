@@ -1,12 +1,23 @@
-<p align="center">
+<div style="display: flex; justify: center; justify-content: space-between;">
   <a href="https://github.com/wabscale">
-    <img
-      alt="flame"
-      src="https://github.com/wabscale/wabscale/raw/master/flame-1.gif"
-      width="400"
-    />
+    <img alt="flame" src="https://github.com/wabscale/wabscale/raw/master/flame-1.gif" width="height=128" />
   </a>
-</p>
+  <a href="https://github.com/wabscale">
+    <img alt="flame" src="https://github.com/wabscale/wabscale/raw/master/flame-1.gif" width="height=128" />
+  </a>
+  <a href="https://github.com/wabscale">
+    <img alt="flame" src="https://github.com/wabscale/wabscale/raw/master/flame-1.gif" width="height=128" />
+  </a>
+  <a href="https://github.com/wabscale">
+    <img alt="flame" src="https://github.com/wabscale/wabscale/raw/master/flame-1.gif" width="height=128" />
+  </a>
+  <a href="https://github.com/wabscale">
+    <img alt="flame" src="https://github.com/wabscale/wabscale/raw/master/flame-1.gif" width="height=128" />
+  </a>
+  <a href="https://github.com/wabscale">
+    <img alt="flame" src="https://github.com/wabscale/wabscale/raw/master/flame-1.gif" width="height=128" />
+  </a>
+</div>
 
 
 ## Hi I'm John 👋
@@ -19,8 +30,59 @@ I've been living and breathing programming since I was 15 (22 now). I mostly spe
 - Former President of the [OSIRIS Cyber Security Research Lab](https://www.osiris.cyber.nyu.edu)
 - Current Infrastructure Manager at the [OSIRIS Cyber Security Research Lab](https://www.osiris.cyber.nyu.edu)
 
-# My stats
+# Some projects
 
-## [![GitHub stats](https://github-readme-stats.vercel.app/api?username=wabscale&show_icons=true&theme=dark&hide=stars&hide_title=true)](https://github.com/wabscale)
+<div style="display: flex; flex-direction: row; justify: center;">
+  <div style="padding: 5px">
+    <a href="https://github.com/GusSands/Anubis">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GusSand&repo=Anubis&theme=dark" alt="stats" />
+    </a>
+  </div>
+  <div style="padding: 5px">
+    <a href="https://github.com/wabscale/bigsql">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=bigsql&theme=dark" alt="stats" />
+    </a>
+  </div>
+</div>
 
-## [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wabscale&layout=compact&theme=dark&hide_title=true)](https://github.com/wabscale)
+<div style="display: flex; flex-direction: row; justify: center;">
+  <div style="padding: 5px">
+    <a href="https://github.com/wabscale/bigj.dev">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=bigj.dev&theme=dark" alt="stats" />
+    </a>
+  </div>
+  <div style="padding: 5px">
+    <a href="https://github.com/wabscale/ben_jerrys">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=ben_jerrys&theme=dark" alt="stats" />
+    </a>
+  </div>
+</div>
+
+<div style="display: flex; flex-direction: row; justify: center;">
+  <div style="padding: 5px">
+    <a href="https://github.com/wabscale/dots">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=dots&theme=dark" alt="stats" />
+    </a>
+  </div>
+  <div style="padding: 5px">
+    <a href="https://github.com/wabscale/dockerfiles">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=dockerfiles&theme=dark" alt="stats" />
+    </a>
+  </div>
+</div>
+
+# Some stats
+
+<div style="display: flex; flex-direction: row; justify: center;">
+  <div style="padding: 5px">
+    <a href="https://github.com/wabscale">
+      <img src="https://github-readme-stats.vercel.app/api?username=wabscale&show_icons=true&theme=dark&hide=stars&hide_title=true" alt="stats" />
+    </a>
+  </div>
+  <div style="padding: 5px">
+    <a href="https://github.com/wabscale">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wabscale&layout=compact&theme=dark&hide_title=true" alt="stats" />
+    </a>
+  </div>
+</div>
+
