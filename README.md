@@ -1,4 +1,4 @@
-<div style="display: flex; justify: center; justify-content: space-between;">
+<div style="display: flex; justify: center; justify-content: center;">
   <a href="https://github.com/wabscale">
     <img alt="flame" src="https://github.com/wabscale/wabscale/raw/master/flame-1.gif" width="height=128" />
   </a>
