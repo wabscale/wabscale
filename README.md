@@ -2,7 +2,7 @@
   <a href="https://github.com/wabscale">
     <img
       alt="flame"
-      src="https://raw.githubusercontent.com/wabscale/wabscale/HEAD/flame-1.gif"
+      src="https://github.com/wabscale/wabscale/raw/master/flame-1.gif"
       width="400"
     />
   </a>
