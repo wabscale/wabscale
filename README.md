@@ -23,57 +23,40 @@ I've been living and breathing programming since I was 15 (22 now). I mostly spe
 
 # Some projects
 
-<div style="display: flex; flex-direction: row; justify: center;">
-  <div style="padding: 5px">
-    <a href="https://github.com/GusSands/Anubis">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GusSand&repo=Anubis&theme=dark" alt="stats" />
-    </a>
-  </div>
-  <div style="padding: 5px">
-    <a href="https://github.com/wabscale/bigsql">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=bigsql&theme=dark" alt="stats" />
-    </a>
-  </div>
-</div>
 
-<div style="display: flex; flex-direction: row; justify: center;">
-  <div style="padding: 5px">
-    <a href="https://github.com/wabscale/bigj.dev">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=bigj.dev&theme=dark" alt="stats" />
-    </a>
-  </div>
-  <div style="padding: 5px">
-    <a href="https://github.com/wabscale/ben_jerrys">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=ben_jerrys&theme=dark" alt="stats" />
-    </a>
-  </div>
-</div>
+<a href="https://github.com/GusSands/Anubis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GusSand&repo=Anubis&theme=dark" alt="stats" />
+</a>
 
-<div style="display: flex; flex-direction: row; justify: center;">
-  <div style="padding: 5px">
-    <a href="https://github.com/wabscale/dots">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=dots&theme=dark" alt="stats" />
-    </a>
-  </div>
-  <div style="padding: 5px">
-    <a href="https://github.com/wabscale/dockerfiles">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=dockerfiles&theme=dark" alt="stats" />
-    </a>
-  </div>
-</div>
+<a href="https://github.com/wabscale/bigsql">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=bigsql&theme=dark" alt="stats" />
+</a>
+
+<a href="https://github.com/wabscale/bigj.dev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=bigj.dev&theme=dark" alt="stats" />
+</a>
+
+<a href="https://github.com/wabscale/ben_jerrys">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=ben_jerrys&theme=dark" alt="stats" />
+</a>
+
+<a href="https://github.com/wabscale/dots">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=dots&theme=dark" alt="stats" />
+</a>
+
+<a href="https://github.com/wabscale/dockerfiles">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=dockerfiles&theme=dark" alt="stats" />
+</a>
+
 
 # Some stats
 
-<div style="display: flex; flex-direction: row; justify: center;">
-  <div style="padding: 5px">
-    <a href="https://github.com/wabscale">
-      <img src="https://github-readme-stats.vercel.app/api?username=wabscale&show_icons=true&theme=dark&hide=stars&hide_title=true" alt="stats" />
-    </a>
-  </div>
-  <div style="padding: 5px">
-    <a href="https://github.com/wabscale">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wabscale&layout=compact&theme=dark&hide_title=true" alt="stats" />
-    </a>
-  </div>
-</div>
+<a href="https://github.com/wabscale">
+  <img src="https://github-readme-stats.vercel.app/api?username=wabscale&show_icons=true&theme=dark&hide=stars" alt="stats" />
+</a>
+
+<a href="https://github.com/wabscale">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wabscale&layout=compact&theme=dark" alt="stats" />
+</a>
+
 
