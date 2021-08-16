@@ -16,7 +16,6 @@
 I've been living and breathing programming since I was 15 (22 now). I mostly specialize in Cyber Security, Distributed Computing, and Full Stack development these days. I have a bit of an obsession for linux, containers, and kubernetes (it is a problem).
 
 - Creator of the [Anubis Learning Mangement System](https://github.com/GusSand/Anubis) (with a [blog](https://anubis.osiris.services/blog))
-- Chief Engineer at [Planetcurious](https://www.planetcurious.me/)
 - Software Engineer at [VolaDynamics](https://voladynamics.com)
 - Former President of the [OSIRIS Cyber Security Research Lab](https://www.osiris.cyber.nyu.edu)
 - Current Infrastructure Manager at the [OSIRIS Cyber Security Research Lab](https://www.osiris.cyber.nyu.edu)
