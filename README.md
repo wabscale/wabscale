@@ -59,3 +59,4 @@ I've been living and breathing programming since I was 15 (22 now). I mostly spe
 </a>
 
 
+![Profile views](https://gpvc.arturio.dev/wabscale)
