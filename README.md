@@ -58,5 +58,3 @@ I've been living and breathing programming since I was 15 (22 now). I mostly spe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wabscale&layout=compact&theme=dark" alt="stats" />
 </a>
 
-
-![Profile views](https://gpvc.arturio.dev/wabscale)
