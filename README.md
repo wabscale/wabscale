@@ -27,6 +27,10 @@ I've been living and breathing programming since I was 15 (23 now). I mostly spe
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anubislms&repo=Anubis&theme=dark" alt="stats" />
 </a>
 
+<a href="https://github.com/wabscale/autofollow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=autofollow&theme=dark" alt="stats" />
+</a>
+
 <a href="https://github.com/wabscale/bigsql">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=bigsql&theme=dark" alt="stats" />
 </a>
