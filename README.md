@@ -18,7 +18,7 @@ I've been living and breathing programming since I was 15 (23 now). I mostly spe
 - Senior Software Engineer at [VolaDynamics](https://voladynamics.com)
 - Creator of the [Anubis Learning Mangement System](https://github.com/GusSand/Anubis) (with a [blog](https://anubis.osiris.services/blog))
 - Former President of the [OSIRIS Cyber Security Research Lab](https://www.osiris.cyber.nyu.edu)
-- Former Infrastructure Manager at the [OSIRIS Cyber Security Research Lab](https://www.osiris.cyber.nyu.edu)
+- Former Infrastructure Manager of the [OSIRIS Cyber Security Research Lab](https://www.osiris.cyber.nyu.edu)
 
 # Some projects
 
