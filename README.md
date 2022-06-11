@@ -20,6 +20,8 @@ I've been living and breathing programming since I was 15 (23 now). I mostly spe
 - Former President of the [OSIRIS Cyber Security Research Lab](https://www.osiris.cyber.nyu.edu)
 - Former Infrastructure Manager of the [OSIRIS Cyber Security Research Lab](https://www.osiris.cyber.nyu.edu)
 
+My Vola Dynamics gitlab profile: [https://gitlab.com/john.cunniff](https://gitlab.com/john.cunniff)
+
 # Some projects
 
 
