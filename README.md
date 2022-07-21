@@ -22,8 +22,12 @@ I've been living and breathing programming since I was 15 (23 now). I mostly spe
 
 My Vola Dynamics gitlab profile: [https://gitlab.com/john.cunniff](https://gitlab.com/john.cunniff)
 
-# Some projects
 
+# Some stats
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+# Some projects
 
 <a href="https://github.com/anubislms/Anubis">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anubislms&repo=Anubis&theme=dark" alt="stats" />
@@ -53,14 +57,4 @@ My Vola Dynamics gitlab profile: [https://gitlab.com/john.cunniff](https://gitla
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wabscale&repo=dockerfiles&theme=dark" alt="stats" />
 </a>
 
-
-# Some stats
-
-<a href="https://github.com/wabscale">
-  <img src="https://github-readme-stats.vercel.app/api?username=wabscale&show_icons=true&theme=dark&hide=stars" alt="stats" />
-</a>
-
-<a href="https://github.com/wabscale">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wabscale&layout=compact&theme=dark" alt="stats" />
-</a>
 
