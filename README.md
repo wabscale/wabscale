@@ -16,7 +16,7 @@
 I've been living and breathing programming since I was 15 (23 now). I mostly specialize in Cyber Security, Distributed Computing, and Full Stack development these days. I have a bit of an obsession for linux, containers, and kubernetes (it is a problem).
 
 - Senior Software Engineer at [VolaDynamics](https://voladynamics.com)
-- Creator of the [Anubis Learning Mangement System](https://github.com/GusSand/Anubis) (with a [blog](https://anubis.osiris.services/blog))
+- Creator of the [Anubis Learning Mangement System](https://github.com/AnubisLMS) (with a [blog](https://anubis-lms.io/blog))
 - Former President of the [OSIRIS Cyber Security Research Lab](https://www.osiris.cyber.nyu.edu)
 - Former Infrastructure Manager of the [OSIRIS Cyber Security Research Lab](https://www.osiris.cyber.nyu.edu)
 
@@ -29,8 +29,8 @@ My Vola Dynamics gitlab profile: [https://gitlab.com/john.cunniff](https://gitla
 
 # Some projects
 
-<a href="https://github.com/anubislms/Anubis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anubislms&repo=Anubis&theme=dark" alt="stats" />
+<a href="https://github.com/AnubisLMS/Anubis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubisLMS&repo=Anubis&theme=dark" alt="stats" />
 </a>
 
 <a href="https://github.com/wabscale/autofollow">
