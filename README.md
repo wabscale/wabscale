@@ -1,3 +1,12 @@
+
+
+
+<div align="center">
+  <a href="https://github.com/wabscale">
+    <img alt="wabscale" src="https://github.com/wabscale/wabscale/raw/master/wabscale-onyx.jpg" />
+  </a>
+</div>
+
 <div align="center">
   <a href="https://github.com/wabscale">
     <img alt="flame" src="https://github.com/wabscale/wabscale/raw/master/flame-1.gif" width="height=128" />
