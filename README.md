@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/wabscale">
-    <img alt="wabscale" src="https://github.com/wabscale/wabscale/raw/master/wabscale-panigale.jpg" height=512/>
+    <img alt="wabscale" src="https://github.com/wabscale/wabscale/raw/master/wabscale-scrambler.jpg" height=512/>
   </a>
 </div>
 
